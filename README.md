@@ -52,14 +52,14 @@ Generate the reason why this statement is against common sense and we will use B
 Subtask A and B will be evaluated using **accuracy**. Subtask C will be evaluated using BLEU score.
 
 ## Deadlines
-
-- 19 February 2020: Evaluation start*
-- 11 March 2020: Evaluation end*
-- 18 March 2020: Results posted
-- 17 April 2020: System description paper submissions due by 23:59 GMT -12:00
-- 24 April 2020: Task description paper submissions due by 23:59 GMT -12:00
-- 10 June 2020: Author notifications for papers
-- 1 July 2020: Camera ready submissions due
+ - 19 February 2020: Evaluation start*
+ - 11 March 2020: Evaluation end*
+ - 18 March 2020: Results posted
+ - 1 May 2020: System description paper submissions due
+ - 8 May 2020: Task description paper submissions due
+ - 24 Jun 2020: Author notifications
+ - 8 Jul 2020: Camera ready submissions due
+ - 12-13 December 2020:  SemEval 2020
 
 ## License
 
