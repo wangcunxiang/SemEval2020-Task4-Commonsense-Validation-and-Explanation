@@ -55,8 +55,8 @@ Subtask A and B will be evaluated using **accuracy**. Subtask C will be evaluate
  - 19 February 2020: Evaluation start*
  - 11 March 2020: Evaluation end*
  - 18 March 2020: Results posted
- - 1 May 2020 (UTC-12 23:59): System description paper submissions due
- - 8 May 2020(UTC-12 23:59): Task description paper submissions due
+ - 15 May 2020 (UTC-12 23:59): System description paper submissions due
+ - 22 May 2020(UTC-12 23:59): Task description paper submissions due
  - 24 Jun 2020(UTC-12 23:59): Author notifications
  - 8 Jul 2020(UTC-12 23:59): Camera ready submissions due
  - 12-13 December 2020:  SemEval 2020
