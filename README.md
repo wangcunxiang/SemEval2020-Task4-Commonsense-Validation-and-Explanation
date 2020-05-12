@@ -61,6 +61,43 @@ Subtask A and B will be evaluated using **accuracy**. Subtask C will be evaluate
  - 8 Jul 2020(UTC-12 23:59): Camera ready submissions due
  - 12-13 December 2020:  SemEval 2020
 
+## Citation
+If you find this project helpful, you can cite
+```bib
+@inproceedings{wang-etal-2020-semeval,
+    title = "{S}em{E}val-2020 Task 4: Commonsense Validation and Explanation",
+    author = "Wang, Cunxiang  and
+      Liang, Shuailong  and
+      Jin, Yili  and
+      Wang, Yilong  and
+      Zhu, Xiaodan  and
+      Zhang, Yue",
+    booktitle = "Proceedings of The 14th International Workshop on Semantic Evaluation",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+}
+```
+as well as
+```bib
+ @inproceedings{wang-etal-2019-make,
+    title = "Does it Make Sense? And Why? A Pilot Study for Sense Making and Explanation",
+    author = "Wang, Cunxiang  and
+      Liang, Shuailong  and
+      Zhang, Yue  and
+      Li, Xiaonan  and
+      Gao, Tian",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1393",
+    pages = "4020--4026",
+    abstract = "Introducing common sense to natural language understanding systems has received increasing research attention. It remains a fundamental question on how to evaluate whether a system has the sense-making capability. Existing benchmarks measure common sense knowledge indirectly or without reasoning. In this paper, we release a benchmark to directly test whether a system can differentiate natural language statements that make sense from those that do not make sense. In addition, a system is asked to identify the most crucial reason why a statement does not make sense. We evaluate models trained over large-scale language modeling tasks as well as human performance, showing that there are different challenges for system sense-making.",
+}
+ ```
+
+
 ## License
 
 The dataset is distributed under the [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
