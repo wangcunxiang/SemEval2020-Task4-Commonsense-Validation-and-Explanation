@@ -1,4 +1,4 @@
-# Commonsense Validation and Explanation
+# Commonsense Validation and Explanation (ComVE)
 
 This is the official repo for SemEval 2020 Task 4: Commonsense Validation and Explanation.
 
@@ -16,14 +16,14 @@ The detailed description of the task can be found in [Task Proposal](./TaskPropo
 
 ### Example
 
-#### Task A: Validation
+#### Task A: Commonsense Validation
 
 Which statement of the two is against common sense?
 
 - Statement 1: He put a turkey into the fridge. *(correct)*
 - Statement 2: He put an elephant into the fridge.
 
-#### Task B: Explanation (Multi-Choice)
+#### Task B: Commonsense Explanation (Multi-Choice)
 
 Select the most corresponding reason why this statement is against common sense.
 
@@ -35,7 +35,7 @@ Select the most corresponding reason why this statement is against common sense.
   - **B**: Elephants are usually white while fridges are usually white.
   - **C**: An elephant cannot eat a fridge.
 
-#### Task C: Explanation (Generation)
+#### Task C: Commonsense Explanation (Generation)
 
 Generate the reason why this statement is against common sense and we will use BELU to evaluate it.
 
